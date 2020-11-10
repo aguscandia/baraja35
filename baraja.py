@@ -9,6 +9,3 @@ def crearBaraja():
             baraja.append(numero+palo)
     return baraja
 
-
-crearBaraja()
-print(baraja)
